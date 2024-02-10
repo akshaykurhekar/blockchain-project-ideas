@@ -11,3 +11,4 @@ Blockchain Project Ideas, in this repo you can find all different types of Ideas
 ### [Blockchain Project Idea - Chapter 08](https://youtu.be/J39-1Nkk0nY?si=z5mm-d7a9XGIUNmU)
 ### [Blockchain Project Idea - Chapter 09](https://youtu.be/h5NPiTrNatg?si=Bi6CssRjWHN54uAt)
 ### [Blockchain Project Idea - Chapter 10](https://youtu.be/_8y_q1R_HKc?si=XZoKsjHdTNkoN-13)
+### [Blockchain Project Idea - Chapter 11](https://youtu.be/1nPz_IIzHhU)
