@@ -12,3 +12,4 @@ Blockchain Project Ideas, in this repo you can find all different types of Ideas
 ### [Decentralize communication 🚀 - Blockchain Project Idea 💡 | Chapter 09](https://youtu.be/h5NPiTrNatg?si=Bi6CssRjWHN54uAt)
 ### [Data as Service 🚀 - Blockchain Project Idea 💡| Chapter 10](https://youtu.be/_8y_q1R_HKc?si=XZoKsjHdTNkoN-13)
 ### [Blockchain + AI/ML 🚀 | Blockchain Project Idea 💡| Chapter 11](https://youtu.be/1nPz_IIzHhU)
+### [Decentralize Voting System 🌐 ❤️| Blockchain Project Ideas 💡| Chapter 12](https://www.youtube.com/watch?v=gZYBpftVZr8)
