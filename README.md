@@ -14,3 +14,5 @@ Blockchain Project Ideas, in this repo you can find all different types of Ideas
 ### [Blockchain + AI/ML 🚀 | Blockchain Project Idea 💡| Chapter 11](https://youtu.be/1nPz_IIzHhU)
 ### [Decentralize Voting System 🌐 ❤️| Blockchain Project Ideas 💡| Chapter 12](https://www.youtube.com/watch?v=gZYBpftVZr8)
 ### [Land registory using NFTs 📑 ❤️| Blockchain Project Ideas 💡| Chapter 13](https://www.youtube.com/watch?v=4K8AEDRakdw)
+### [Gaming in Blockchain 🎮🎯| Blockchain Project Ideas 💡| Chapter 14](https://youtu.be/HnT-jOeGHZk?si=gGhdBgbICY-UgVI5)
+### [Blockchain in agriculture 🌿🍎| Blockchain Project Ideas 💡| Chapter 15](https://youtu.be/k9pPe6bRGpU?si=29h9qNC5T3MFTyc9)
