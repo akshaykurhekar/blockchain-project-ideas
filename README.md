@@ -1,10 +1,10 @@
 # Blockchain Project Ideas 💡
 Blockchain Project Ideas, in this repo you can find all different types of Ideas for practice and Implementation of Web3 / Blockchain Technology 🔥.
 
-### [Blockchain Project Idea - Chapter 01](https://youtu.be/nfX2EZo43_U?si=qG8GXxJaODuRdxUh)
-### [Blockchain Project Idea - Chapter 02](https://youtu.be/tgCmu5PHz10?si=BdTkYBh9aMRgH3iy)
-### [Blockchain Project Idea - Chapter 03](https://youtu.be/j7JAE2TbBRY?si=Npal7FZJLrtWXOuf)
-### [Private Blockchain Project Idea - Chapter 04](https://youtu.be/gRzGNGs6HUw?si=7Og4B-eJTNvc9pUb)
+### [Music dapp 🎵🎧| Blockchain Project Ideas 🎯 | Chapter 01 🚀 |](https://youtu.be/nfX2EZo43_U?si=qG8GXxJaODuRdxUh)
+### [Blood bank dapp 🩸 | Blockchain Project Idea | Chapter 02 🚀](https://youtu.be/tgCmu5PHz10?si=BdTkYBh9aMRgH3iy)
+### [Where to use blockchain technology? 🤔| Blockchain Project Idea - Chapter 03](https://youtu.be/j7JAE2TbBRY?si=Npal7FZJLrtWXOuf)
+### [Hospital Network | Private Blockchain Project Idea ❤️ - Chapter 04](https://youtu.be/gRzGNGs6HUw?si=7Og4B-eJTNvc9pUb)
 ### [Private Blockchain Project Idea - Tech Stack 🔥 | Chapter 05](https://youtu.be/4ySmrtOgYEs?si=M7l5rkZmb46mevrW)
 ### [Private Blockchain Project Idea - FinTech 🚀| Chapter 06](https://youtu.be/k5MVsUS8cJ8?si=-8uEYWmlBDivry5r)
 ### [Energy Managament - Blockchain Project Idea 💡| Chapter 07](https://youtu.be/4RH_QRr2WRs?si=qfeMhN-IRdb3Sujj)
