@@ -18,4 +18,4 @@ Blockchain Project Ideas, in this repo you can find all different types of Ideas
 ### [Blockchain in agriculture 🌿🍎| Blockchain Project Ideas 💡| Chapter 15](https://youtu.be/k9pPe6bRGpU?si=29h9qNC5T3MFTyc9)
 ### [Tracking product using blockchain 🎯 Supply chain management use case 🌐 Chapter 16 ](https://www.youtube.com/watch?v=Rv5Ee6FzEYs&lc=Ugx2g-NCYkuL9Vf6rbV4AaABAg)
 ### [Blockchain for NGO's 🎯| Blockchain Project Ideas 💡| Chapter 17](https://youtu.be/eTUfU1FuW-w)
-### [Podcast with Blockchain Expert 😍 💪| Blockchain Project Ideas 💡| Final Chapter 18 ❤️]
+### [Podcast with Blockchain Expert 😍 💪| Blockchain Project Ideas 💡| Final Chapter 18 ❤️](https://youtu.be/IUHVWxuXMcM)
